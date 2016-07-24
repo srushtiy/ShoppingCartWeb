@@ -1,0 +1,5 @@
+com\niit\bookstore\model\Category.class
+com\niit\bookstore\dao\CategoryDAO.class
+com\niit\bookstore\config\ApplicationContextConfig.class
+com\niit\bookstore\App.class
+com\niit\bookstore\dao\CategoryDAOimpl.class
